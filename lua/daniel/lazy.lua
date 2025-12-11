@@ -16,6 +16,7 @@ require('lazy').setup({
   'NMAC427/guess-indent.nvim', -- Detect tabstop and shiftwidth automatically
   'ThePrimeagen/vim-be-good',
   'tpope/vim-fugitive',
+  'mbbill/undotree',
   {
     'ThePrimeagen/harpoon',
     branch = 'harpoon2',
